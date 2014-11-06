@@ -15,6 +15,10 @@
 ====
 
 README.txt
+
+
+Welcom to git!
+
 Kuali Rice ${project.version}
 ${readme.build.timestamp}
 
